@@ -111,6 +111,10 @@ The repository focuses on the underlying entity-resolution and machine-learning 
 
 ## Official Challenge Resources
 
+### Student Resources
+
+[Amazon ML Challenge 2026 — Student Resources](https://cdn.unstop.com/files/6ab10eb3b23ba_student_resource.zip)
+
 Challenge video:
 https://d8it4huxumps7.cloudfront.net/files/6ab509c5b7036_ml_challenge_2026_video.mp4
 
