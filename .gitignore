@@ -1,0 +1,32 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Challenge data and generated files
+dataset/
+output/
+experiments/
+*.tsv
+*.csv
+*.zip
+
+# Local logs / temporary files
+*.log
+*.tmp
+*.bak
+
+# Local configuration
+.env
